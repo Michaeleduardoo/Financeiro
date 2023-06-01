@@ -28,8 +28,11 @@
 
 <div align="center" >
   
-<a size=40 href="https://financia-manager.netlify.app/"><img class="my4" width=50% height=90% src="https://www.urucuia.mg.leg.br/botocliqueaquipng5.png" alt="Imagem"></a>
+<a href="https://gerenciadorfinanceiro.netlify.app/">
+  <img class="my4" width=25% src="https://github.com/Michaeleduardoo/Financeiro/assets/106412874/58ef5bbe-6424-4e38-91d2-dce5633ef4c7" alt="Imagem">
+</a>
 
   </div>
-  
+
+
 <h2></h2>
