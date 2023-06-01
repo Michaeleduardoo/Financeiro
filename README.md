@@ -26,13 +26,11 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=100&fontSize=60&text=Link-Abaixo:)
 </div>
 
-<div align="center" >
-  
-<a href="https://gerenciadorfinanceiro.netlify.app/">
-  <img class="my4" width=25% src="https://github.com/Michaeleduardoo/Financeiro/assets/106412874/58ef5bbe-6424-4e38-91d2-dce5633ef4c7" alt="Imagem">
-</a>
-
-  </div>
-
-
-<h2></h2>
+ <div align="center" >
+  <h1>
+  <a href="https://gerenciadorfinanceiro.netlify.app/">
+      VER SITE.
+   </a>
+  </h1>
+</div>
+ 
